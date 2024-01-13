@@ -1,3 +1,5 @@
+package semana03_contador;
+
 public class ContadorSincronizado {
 	public class Incrementador extends Thread {
 
