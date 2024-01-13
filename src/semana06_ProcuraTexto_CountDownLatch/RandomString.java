@@ -1,3 +1,5 @@
+package semana06_ProcuraTexto_CountDownLatch;
+
 import java.security.SecureRandom;
 import java.util.Locale;
 import java.util.Objects;

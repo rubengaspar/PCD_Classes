@@ -1,3 +1,4 @@
+package semana04_05_banqueteJavalis;
 
 public class Javali {
 	public final int numOrdem;

@@ -1,3 +1,5 @@
+package semana04_05_banqueteJavalis;
+
 import java.util.ArrayList;
 // Este exercício é a solução para a Semana 5!
 import java.util.Vector;

@@ -1,8 +1,6 @@
+package semana06_ProcuraTexto_CountDownLatch;
+
 import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.CyclicBarrier;
-
-
-
 
 public class MainCDL {
 	static final int NUM_DOCUMENTS_TO_BE_SEARCHED=1000;
